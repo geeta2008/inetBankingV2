@@ -1,0 +1,105 @@
+2023-04-05 12:43:03 INFO  ebanking:15 - URL is opened
+2023-04-05 12:43:03 INFO  ebanking:18 - Entered Username
+2023-04-05 12:43:03 INFO  ebanking:20 - Entered Password
+2023-04-05 12:43:04 INFO  ebanking:26 - Logon Test Passed
+2023-04-05 12:43:16 INFO  ebanking:21 - user name provided
+2023-04-05 12:43:16 INFO  ebanking:23 - password provided
+2023-04-05 12:43:23 INFO  ebanking:37 - Login passed
+2023-04-05 12:43:29 INFO  ebanking:21 - user name provided
+2023-04-05 12:43:29 INFO  ebanking:23 - password provided
+2023-04-05 12:43:49 INFO  ebanking:17 - User name is provided
+2023-04-05 12:43:50 INFO  ebanking:19 - Password provided
+2023-04-05 12:43:54 INFO  ebanking:27 - Providing Customer Details
+2023-04-05 12:44:03 INFO  ebanking:42 - Get Titile
+2023-04-05 12:44:03 INFO  ebanking:44 - Validation Started
+2023-04-05 12:44:03 INFO  ebanking:49 - Test Case Passed
+2023-04-05 21:39:15 INFO  ebanking:15 - URL is opened
+2023-04-05 21:39:15 INFO  ebanking:18 - Entered Username
+2023-04-05 21:39:16 INFO  ebanking:20 - Entered Password
+2023-04-05 21:39:18 INFO  ebanking:26 - Logon Test Passed
+2023-04-05 21:39:31 INFO  ebanking:21 - user name provided
+2023-04-05 21:39:31 INFO  ebanking:23 - password provided
+2023-04-05 21:39:37 INFO  ebanking:37 - Login passed
+2023-04-05 21:39:44 INFO  ebanking:21 - user name provided
+2023-04-05 21:39:44 INFO  ebanking:23 - password provided
+2023-04-05 21:39:57 INFO  ebanking:17 - User name is provided
+2023-04-05 21:39:59 INFO  ebanking:19 - Password provided
+2023-04-05 21:40:07 INFO  ebanking:27 - Providing Customer Details
+2023-04-05 21:40:14 INFO  ebanking:42 - Get Titile
+2023-04-05 21:40:14 INFO  ebanking:44 - Validation Started
+2023-04-05 21:40:14 INFO  ebanking:49 - Test Case Passed
+2023-04-05 21:48:45 INFO  ebanking:15 - URL is opened
+2023-04-05 21:48:45 INFO  ebanking:18 - Entered Username
+2023-04-05 21:48:45 INFO  ebanking:20 - Entered Password
+2023-04-05 21:48:48 INFO  ebanking:26 - Logon Test Passed
+2023-04-05 21:50:54 INFO  ebanking:15 - URL is opened
+2023-04-05 21:50:59 INFO  ebanking:18 - Entered Username
+2023-04-05 21:50:59 INFO  ebanking:20 - Entered Password
+2023-04-05 21:51:09 INFO  ebanking:26 - Logon Test Passed
+2023-04-05 21:51:24 INFO  ebanking:21 - user name provided
+2023-04-05 21:51:25 INFO  ebanking:23 - password provided
+2023-04-05 21:51:32 INFO  ebanking:37 - Login passed
+2023-04-05 21:51:52 INFO  ebanking:21 - user name provided
+2023-04-05 21:51:53 INFO  ebanking:23 - password provided
+2023-04-05 21:52:23 INFO  ebanking:17 - User name is provided
+2023-04-05 21:52:23 INFO  ebanking:19 - Password provided
+2023-04-05 21:52:29 INFO  ebanking:27 - Providing Customer Details
+2023-04-05 21:52:46 INFO  ebanking:42 - Get Titile
+2023-04-05 21:52:46 INFO  ebanking:44 - Validation Started
+2023-04-05 21:52:46 INFO  ebanking:49 - Test Case Passed
+2023-04-05 21:57:24 INFO  ebanking:15 - URL is opened
+2023-04-05 21:57:25 INFO  ebanking:18 - Entered Username
+2023-04-05 21:57:35 INFO  ebanking:20 - Entered Password
+2023-04-05 21:57:45 INFO  ebanking:26 - Logon Test Passed
+2023-04-05 21:58:09 INFO  ebanking:21 - user name provided
+2023-04-05 21:58:09 INFO  ebanking:23 - password provided
+2023-04-05 21:58:16 INFO  ebanking:37 - Login passed
+2023-04-05 21:58:31 INFO  ebanking:21 - user name provided
+2023-04-05 21:58:31 INFO  ebanking:23 - password provided
+2023-04-05 21:58:36 INFO  ebanking:37 - Login passed
+2023-04-05 21:59:41 INFO  ebanking:17 - User name is provided
+2023-04-05 21:59:41 INFO  ebanking:19 - Password provided
+2023-04-05 21:59:54 INFO  ebanking:27 - Providing Customer Details
+2023-04-05 22:00:09 INFO  ebanking:42 - Get Titile
+2023-04-05 22:00:10 INFO  ebanking:44 - Validation Started
+2023-04-05 22:00:10 INFO  ebanking:49 - Test Case Passed
+2023-04-05 22:01:53 INFO  ebanking:15 - URL is opened
+2023-04-05 22:01:54 INFO  ebanking:18 - Entered Username
+2023-04-05 22:01:54 INFO  ebanking:20 - Entered Password
+2023-04-05 22:01:58 INFO  ebanking:26 - Logon Test Passed
+2023-04-05 22:02:27 INFO  ebanking:21 - user name provided
+2023-04-05 22:02:28 INFO  ebanking:23 - password provided
+2023-04-05 22:02:34 INFO  ebanking:37 - Login passed
+2023-04-05 22:02:42 INFO  ebanking:21 - user name provided
+2023-04-05 22:02:42 INFO  ebanking:23 - password provided
+2023-04-05 22:03:14 INFO  ebanking:17 - User name is provided
+2023-04-05 22:03:14 INFO  ebanking:19 - Password provided
+2023-04-05 22:03:26 INFO  ebanking:27 - Providing Customer Details
+2023-04-05 22:03:40 INFO  ebanking:42 - Get Titile
+2023-04-05 22:03:40 INFO  ebanking:44 - Validation Started
+2023-04-05 22:03:40 INFO  ebanking:49 - Test Case Passed
+2023-04-06 09:08:50 INFO  ebanking:15 - URL is opened
+2023-04-06 09:08:53 INFO  ebanking:18 - Entered Username
+2023-04-06 09:08:53 INFO  ebanking:20 - Entered Password
+2023-04-06 09:08:54 INFO  ebanking:26 - Logon Test Passed
+2023-04-06 09:09:05 INFO  ebanking:21 - user name provided
+2023-04-06 09:09:06 INFO  ebanking:23 - password provided
+2023-04-06 09:09:13 INFO  ebanking:37 - Login passed
+2023-04-06 09:09:19 INFO  ebanking:21 - user name provided
+2023-04-06 09:09:19 INFO  ebanking:23 - password provided
+2023-04-06 09:09:29 INFO  ebanking:17 - User name is provided
+2023-04-06 09:09:30 INFO  ebanking:19 - Password provided
+2023-04-06 09:09:34 INFO  ebanking:27 - Providing Customer Details
+2023-04-06 09:09:41 INFO  ebanking:42 - Get Titile
+2023-04-06 09:09:41 INFO  ebanking:44 - Validation Started
+2023-04-06 09:09:41 INFO  ebanking:49 - Test Case Passed
+2023-04-06 09:18:50 INFO  ebanking:15 - URL is opened
+2023-04-06 09:18:52 INFO  ebanking:18 - Entered Username
+2023-04-06 09:18:52 INFO  ebanking:20 - Entered Password
+2023-04-06 09:18:54 INFO  ebanking:26 - Logon Test Passed
+2023-04-06 09:19:04 INFO  ebanking:17 - User name is provided
+2023-04-06 09:19:04 INFO  ebanking:19 - Password provided
+2023-04-06 09:19:08 INFO  ebanking:27 - Providing Customer Details
+2023-04-06 09:19:16 INFO  ebanking:42 - Get Titile
+2023-04-06 09:19:16 INFO  ebanking:44 - Validation Started
+2023-04-06 09:19:16 INFO  ebanking:49 - Test Case Passed
